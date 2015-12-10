@@ -1,0 +1,8 @@
+{
+    "require" : {
+        "php" : ">=5.4.0",
+        "ext-phalcon" : ">=2.0.0",
+        "swiftmailer/swiftmailer" : "5.0.*",
+        "amazonwebservices/aws-sdk-for-php" : "~1.0"
+    }
+}
